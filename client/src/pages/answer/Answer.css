@@ -1,0 +1,24 @@
+.anserAkafi{
+    background-color: silver;
+    border-radius: 20px;
+}
+.forAnswer{
+    margin-left: 200px;
+ 
+}
+.forAnswer p{
+    color: white;
+}
+.forBackgroundColor{
+    background-color:#125699 ;
+    height: 100px;
+    border-radius: 15px;
+    color: white;
+    max-width: 100%;
+
+}
+.buttonAkafi{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
